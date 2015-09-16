@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 廣義法門經
+#+DATE: 2015-08-30 19:30:45.707603
+#+PROPERTY: JUAN 0
